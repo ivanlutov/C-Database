@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="02.CRUDExercise">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="02. Find All Information About Departments.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02. Find All Information About Departments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03. Find all Department Names.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03. Find all Department Names.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04. Find Salary of Each Employee.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04. Find Salary of Each Employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05. Find Full Name of Each Employee.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05. Find Full Name of Each Employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06. Find Email Address of Each Employee.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06. Find Email Address of Each Employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07. Find All Different Employee’s Salaries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07. Find All Different Employee’s Salaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08. Find all Information About Employees.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08. Find all Information About Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09. Find Names of All Employees by Salary in Range.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09. Find Names of All Employees by Salary in Range.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10. Find Names of All Employees.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10. Find Names of All Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11. Find All Employees Without Manager.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11. Find All Employees Without Manager.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12. Find All Employees with Salary More Than.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12. Find All Employees with Salary More Than.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13. Find 5 Best Paid Employees.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13. Find 5 Best Paid Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14. Find All Employees Except Marketing.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14. Find All Employees Except Marketing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15. Sort Employees Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15. Sort Employees Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16. Create View Employees with Salaries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16. Create View Employees with Salaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17. Create View Employees with Job Titles.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17. Create View Employees with Job Titles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18. Distinct Job Titles.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18. Distinct Job Titles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19. Find First 10 Started Projects.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19. Find First 10 Started Projects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20. Last 7 Hired Employees.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20. Last 7 Hired Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21. Increase Salaries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21. Increase Salaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22. All Mountain Peaks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>22. All Mountain Peaks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23. Biggest Countries by Population.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>23. Biggest Countries by Population.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24. Countries and Currency (Euro or Not Euro).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24. Countries and Currency (Euro or Not Euro).sql</FullPath>
+        </FileNode>
+        <FileNode Name="25. All Diablo Characters.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25. All Diablo Characters.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
