@@ -4,9 +4,9 @@ BEGIN
 	 BEGIN TRAN
 
      DECLARE @FeedbackCount INT = (SELECT COUNT(*) 
-	                                 FROM Feedbacks
+	                             FROM Feedbacks
                                	 GROUP BY CustomerId
-	                               HAVING CustomerId = @CustomerId)
+	                           HAVING CustomerId = @CustomerId)
 
 	 IF(@FeedbackCount >= 3)
 	 BEGIN
