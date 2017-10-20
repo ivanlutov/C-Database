@@ -1,6 +1,6 @@
     SELECT d.Name AS DistributorName,
            i.Name AS IngredientName,
-	       p.Name AS ProductName,
+	   p.Name AS ProductName,
            AVG(f.Rate) AS AverageRate
       FROM Distributors AS d
 INNER JOIN Ingredients AS i
