@@ -3,12 +3,12 @@ RETURNS VARCHAR(10)
 AS
 BEGIN
 
-     DECLARE @Rate DECIMAL(4, 2) = (SELECT AVG(f.Rate) 
+     DECLARE @Rate DECIMAL(4, 2) =     (SELECT AVG(f.Rate) 
 	                                  FROM Products AS p
 	                             LEFT JOIN Feedbacks AS f
 	                                    ON f.ProductId = p.Id
 	                                 WHERE p.Name = @ProductName
-								  GROUP BY p.Name)
+				      GROUP BY p.Name)
 
 	DECLARE @Result VARCHAR(10);
 
