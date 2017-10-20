@@ -1,7 +1,7 @@
     SELECT 
            ProductId,
-		   CONCAT(c.FirstName, ' ', c.LastName) AS CustomerName,
-		   f.Description AS FeedbackDescription
+	   CONCAT(c.FirstName, ' ', c.LastName) AS CustomerName,
+	   f.Description AS FeedbackDescription
       FROM Feedbacks AS f
 INNER JOIN Customers AS c
         ON c.Id = f.CustomerId
