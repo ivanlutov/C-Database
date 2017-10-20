@@ -10,5 +10,5 @@ INNER JOIN Customers AS c
                         INNER JOIN Feedbacks AS f
                                 ON f.CustomerId = c.Id
                           GROUP BY f.CustomerId
-                      HAVING COUNT(f.CustomerId) >= 3)
+                            HAVING COUNT(f.CustomerId) >= 3)
   ORDER BY f.ProductId, CustomerName, f.Id
